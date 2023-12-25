@@ -127,11 +127,11 @@ export const skills: SkillGroup[] = [
       },
       {
         name: 'Rust',
-        level: 5,
+        level: 10,
       },
       {
         name: 'Golang',
-        level: 4,
+        level: 9,
       },
     ],
   },
@@ -298,6 +298,14 @@ export const testimonial: TestimonialSection = {
     {
       name: 'Lubomir Bourdev',
       text: 'Working with him has been an absolute pleasure. His expertise and attention to detail have been instrumental in delivering outstanding results. Highly recommended.',
+    },
+    {
+      name: 'Harjeet Padda',
+      text: 'In the relam of blockchain, Randi stands as a true visionary. A master of innovation, his technical prowess transforms challenges into triumphs. Their communication fitnesse weaves cohesion within the team, making him an indispensable force in driving success. A rare blend of skill and mindset, Randi redefines excellence in blockchain development!',
+    },
+    {
+      name: 'Jimmy Savillie',
+      text: 'He\'s a great game-changer. His expertise in blockchain is unmatched, turning complexity into simplicity. A true collaborator, Randi communicates seamlessly and elevates the entire team. An incredible asset, Randi is the driving force behind our success...',
     },
   ],
 };
